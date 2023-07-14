@@ -1,5 +1,5 @@
 import { Router } from 'express';
-import { Book } from '../models/book.js';
+import { Book } from '../model/book.js';
 var router = Router();  
 
 // CREATE
